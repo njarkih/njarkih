@@ -5,8 +5,8 @@
  - Deep Learning
  
 ### My projects:
-1. [Cell Segmentation](https://github.com/njarkih/cells_counter) - проект по подсчету клеток в камере Фукса‑Розенталя используя CV (Faster RCNN model)
-2. [Happy NY tbot](https://github.com/njarkih/tbot_happyny) - телеграм бот для генерации поздравления с Новым годом через сервис Яндекс Балабоба
+1. [Cell Segmentation (RU)](https://github.com/njarkih/cells_counter) - Fuchs-Rosenthal entrapment cell counting project using CV (Faster RCNN model) / проект по подсчету клеток в камере Фукса‑Розенталя используя CV (Faster RCNN model)
+2. [Happy NY tbot (RU)](https://github.com/njarkih/tbot_happyny) - telegram bot for generating Happy New Year greetings through the Yandex Balaboba service / телеграм бот для генерации поздравления с Новым годом через сервис Яндекс Балабоба
 <!-- 3. [Smoke Detection](https://github.com/Padavan1987/Smoke_detection) - определение курения по позе (???? модель) и наличие сигареты в руках (Yolo model)
 4. [Music_recomendation_tbot](https://github.com/Padavan1987/music_recomendation_tbot) - телеграм бот по рекомендациям исполнителей используя Spotify API
 5. [House Prices](https://github.com/Padavan1987/House_prices) - Kaggle соревнование по прогнозированию цен на жилье -->
