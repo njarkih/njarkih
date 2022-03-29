@@ -4,7 +4,14 @@
  - Machine Learning
  - Deep Learning
  
-**You can see my projects in pinned repositories**
+### My projects:
+1. [Cell Segmentation](https://github.com/njarkih/cells_counter) - проект по подсчету клеток в камере Фукса‑Розенталя используя CV (Faster RCNN model)
+<!-- 2. [Speech-to-text_tbot](https://github.com/Padavan1987/Speech-to-text_tbot) - телеграм бот для преобразования голосового сообщения (до 30 сек) в текст. Без функции логирования
+3. [Smoke Detection](https://github.com/Padavan1987/Smoke_detection) - определение курения по позе (???? модель) и наличие сигареты в руках (Yolo model)
+4. [Music_recomendation_tbot](https://github.com/Padavan1987/music_recomendation_tbot) - телеграм бот по рекомендациям исполнителей используя Spotify API
+5. [House Prices](https://github.com/Padavan1987/House_prices) - Kaggle соревнование по прогнозированию цен на жилье -->
+
+
 
 ### Education 
 - **Specialist degreeApplied informatics (in economics)** in Orel State Technical University (OrelSTU) (2007)
